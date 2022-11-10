@@ -13,6 +13,8 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
+    // комментарий
+
     private Button btn;
     private int counter = 0;
     private TextView tv;
